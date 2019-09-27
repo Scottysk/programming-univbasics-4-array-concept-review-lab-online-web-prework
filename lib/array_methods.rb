@@ -9,7 +9,7 @@ end
 
 def find_max_value(array)
   array.length.times { |index|
-  if array 
+  if array[index]
 end
 
 def find_min_value(array)
