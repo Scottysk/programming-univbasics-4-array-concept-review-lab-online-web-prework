@@ -1,4 +1,5 @@
 def find_element_index(array, value_to_find)
+  counter = 0
   array.index(value_to_find)
 end
 
